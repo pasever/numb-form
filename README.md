@@ -1,6 +1,9 @@
 # numb-form
 
-Number Formatter
+[![Build Status](https://travis-ci.org/pasever/numb-form.svg?branch=master)](https://travis-ci.org/pasever/numb-form)
+
+[![Coverage Status](https://coveralls.io/repos/github/pasever/numb-form/badge.svg)](https://coveralls.io/github/pasever/numb-form)
+
 =========
 
 A small library that adds commas to numbers
