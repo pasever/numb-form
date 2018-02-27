@@ -13,10 +13,10 @@ A small library that adds commas to numbers
 
     const numFormatter = require('@pasever/numb-form');
 
-    const formattedNum = numFormatter(35666);
+    const formattedNum = numFormatter(67890);
   
   
-  Output should be `35,666`
+  Output should be `67,890`
 
 
 ## Tests
