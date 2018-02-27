@@ -11,7 +11,7 @@ A small library that adds commas to numbers
 
 ## Usage
 
-    const numFormatter = require('@pasever/numb-form');
+    const numFormatter = require('numb-form');
 
     const formattedNum = numFormatter(67890);
   
