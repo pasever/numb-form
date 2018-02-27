@@ -7,7 +7,7 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @pasever/numb-form`
+  `npm install numb-form`
 
 ## Usage
 
